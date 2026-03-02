@@ -19,5 +19,8 @@ The analysis explores how the nature of the conflict has evolved, focusing on:
 * **Tactical Evolution:** Russia utilizes older equipment in stalemate areas, while newer generation equipment is prioritized for offensive attempts.
 * **Loss Status:** Data indicates a high equipment destruction rate, suggesting low survival rates for crews.
 
+## Data Source
+The dataset used in this analysis is from the [WarSpotting API](https://www.kaggle.com/datasets/zsoltlazar/equipment-losses-dataset-warspotting-api).
+
 ## Citation
 Data provided via the WarSpotting.net API.
